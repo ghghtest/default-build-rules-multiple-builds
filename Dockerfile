@@ -1,1 +1,1 @@
-from hello-world:latest
+from iojs:slim
